@@ -10,7 +10,9 @@ WELCOME!!
 **HOW TO RUN THE CODE**
 
 **1|** Unzip the **dataset.rar** 
+
 **2|** copy **dataset** and **stopwprds** to the **program path**
+
 **3|** Change the **dir** parameter at the beginning of code and run the TFIDF.py!. The process of each stage should be displayed on the screen. And a binary .npz training file will be written to the program path!
 
 Comments are fully deployed in the code. You can check by yourself. No more comments here!
