@@ -4,7 +4,7 @@ WELCOME!!
 
 **Description of TFIDF algorithm:**
 
-![image](https://user-images.githubusercontent.com/55009904/157707220-43a82b33-b7be-45c9-8a24-9f3febb85e62.png)
+![image](https://user-images.githubusercontent.com/55009904/157708542-90b30150-6070-4a32-aeb6-6482735cf416.png)
 
 
 **HOW TO RUN THE CODE**
